@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Volkswagen Passat Variant 1.9 TDI Highline AUTOMAAT KAPOTa title",
+        "price": 460022,
+        "img":"images/car1.jpg",
+        "category": "cars"
+
+    },
+    {
+        "title": "Skoda Octavia Octavia Combi 2.0 Tdi Elegance Automaat Dsg Clima Lmv Half Leder",
+        "price": 460022,
+        "img":"images/car2.jpg",
+        "category": "cars"
+
+    },
+    {
+        "title": "Baby Ugg / Uggs maat 20/21",
+        "price": 1022,
+        "img":"images/shoes.jpg",
+        "category": "shoes"
+
+    },
+    {
+        "title": "Puzzle Quest Challenge of the Warlords",
+        "price": 2622,
+        "img":"images/game.jpg",
+        "category": "games"
+
+    },
+    {
+        "title": "Fiat Panda 0.9 Twinair 63KW 2012 Rood",
+        "price": 120022,
+        "img":"images/car3.jpg",
+        "category": "cars"
+
+    },
+    {
+        "title": "2010 Raptor SVT Prins Lpg-G3 400L tank Decemberactie!!!",
+        "price": 423022,
+        "img":"images/car4.jpg",
+        "category": "cars"
+
+    },
+    {
+        "title": "Audi A4 Avant 2.0 TDI Quattro. Pro L. S",
+        "price": 410022,
+        "img":"images/car4.jpg",
+        "category": "cars"
+
+    }
+]
