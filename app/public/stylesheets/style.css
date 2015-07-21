@@ -206,7 +206,7 @@ button {
 
 }
 
-/* Extra Small */
+/** Extra Small **/
 @media(max-width: 767px){
   .slidermobile{
       width: 100%;
